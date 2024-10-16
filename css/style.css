@@ -1,0 +1,9 @@
+#marcas{
+    background-image: url(../assets/img/volkswagen-1822992_1280.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-attachment: scroll;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.178); /* Color blanco con 50% de transparencia */
+    background-blend-mode: overlay; /* Mezcla la imagen y el color */
+}
